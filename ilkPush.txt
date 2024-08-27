@@ -1,0 +1,3 @@
+ilk push lamada yapılacak olan
+
+git push --set-upstream origin main
